@@ -1,3 +1,4 @@
+fund_bill/
 htmlcov/
 holdings.py
 tests/SH000807.csv
@@ -22,3 +23,6 @@ dist/
 xalpha.egg-info/
 .coverage
 .vscode/
+/venv_mac/
+/venv_win/
+/fund_bill/
